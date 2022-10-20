@@ -1,2 +1,2 @@
-# LMG-Memes
+# Prole-Memer
 A Facebook page managing program
