@@ -1,2 +1,2 @@
-# LMG---Memes
+# LMG-Memes
 A Facebook page managing program
